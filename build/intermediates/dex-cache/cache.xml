@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/AppsWorkforce2/.android/build-cache/f31d07ce7e4c7a9cb5e8a3d34bfd873d2560ea27/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/Users/AppsWorkforce2/Desktop/DeltaJSONReader/JSONReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ed367e8106440120647e79d3f23df8c9c331f9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AppsWorkforce2/Desktop/DeltaJSONReader/JSONReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/AppsWorkforce2/Desktop/DeltaJSONReader/JSONReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3e1a9674051d7b086fe43da6877f5e3b2513f2eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AppsWorkforce2/Desktop/DeltaJSONReader/JSONReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e8b2c6536d9313230ec99bf8d8f08babcc23bc77">
+        <dex dex="/Users/AppsWorkforce2/Desktop/DeltaJSONReader/JSONReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a9d9de5f169ff03c52a5eafa274fba05b3a0816b/classes.dex" />
+    </item>
+
+</items>
